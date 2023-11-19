@@ -1,0 +1,15 @@
+To get a channel ID in Discord, you need to follow these steps:
+
+Switch on Discord Developer Mode:
+
+Open your Discord client, and click on the settings wheel icon in the bottom-left corner. This is in the group of icons that are shown alongside your avatar and Discord username1.
+Navigate to the left-hand side menu and go to the option that says “Advanced”. Click this in order to open up the Advanced Settings pane1.
+Once the Advanced Settings pane has appeared, this will contain the option to enable Discord Developer mode. If there is a green checkmark inside the switch, then it is already enabled, but if there isn’t, simply click the toggle to enable Developer Mode1.
+Navigate to the Channel:
+
+Scroll through your server list on the right-hand side of your Discord client until you find the server that contains the channel. Click on the server icon to enter the server1.
+Then, the channel list will be displayed, which showcases the channels you have access to in the server. Then, navigate to the channel whose ID you’d like to retrieve.
+Copy to Clipboard:
+
+When you’ve located the channel name in the server’s channel list, it’s time to copy the ID! If you’re on a desktop, right-click the channel name, and a dropdown menu will appear. The “Copy ID” option should be displayed; click this, and the ID will then be copied to your clipboard1.
+Please note that you can also get the channel ID on mobile devices2. For Android users, press and hold the Channel name. You should see the last item on the drop-down menu: ‘Copy ID’. Click ‘Copy ID’ to get the ID2. On iOS, you’ll click on the three dots next to the Server’s name and select 'Copy ID’.
